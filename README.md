@@ -2,7 +2,7 @@
 !['Sign-Up-Flow'](https://i.imgur.com/JKZJWdY.gif )
 
 
-See life: https://bambooklove.herokuapp.com
+Go to the page: https://bambooklove.herokuapp.com
 # Start: 
 # Installation
     Clone or download the repo
